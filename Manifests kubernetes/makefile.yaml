@@ -1,0 +1,10 @@
+resources:
+  - /manifests/namespace.yml
+  - /manifests/wordpress-secret.yml
+  - /manifests/mysql-volume.yml
+  - /manifests/wordpress-volume.yml
+  - /manifests/mysql-deployment.yml
+  - /manifests/wordpress-deployment.yml
+  - /manifests/wordpress-svc.yml
+  - /manifests/mysql-svc.yml
+  - /manifests/ingress.yml
